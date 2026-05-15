@@ -49,15 +49,18 @@ Topics covered:
 codealpha_tasks/
 │
 ├── Task1_EDA/
-│   ├── 01_EDA_Cleaning.ipynb
+
+  │   ├── 01_EDA_Cleaning.ipynb
 
 │
 ├── Task2_Visualization/
-│   ├── 02_Data_Visualization.ipynb
+
+  │   ├── 02_Data_Visualization.ipynb
 │
 
 ├── Task3_Sentiment_Analysis/
-│   ├── 03_Sentiment_Analysis.ipynb
+
+  │   ├── 03_Sentiment_Analysis.ipynb
 │
 
 └── README.md
